@@ -1,116 +1,22 @@
-[
-  {
-    "amount": "$25/mo",
-    "percentage": "10% APR",
-    "dateMonth": "24 months",
-    "id": "1",
-    "data": [
-      {
-        "title": "APR 1",
-        "body": "The cost of credit as a yearly rate.",
-        "footer": "5.0%",
-      },
-      {
-        "title": "FINANCE CHARGE",
-        "body": "The dollar amount the credit will cost you.",
-        "footer": "$50",
-      },
-      {
-        "title": "AMOUNT FINANCED",
-        "body": "The amount of credit provided to you",
-        "footer": "$1,000",
-      },
-      {
-        "title": "PAYMENTS TOTAL",
-        "body": "The total amount paid after making all scheduled payments",
-        "footer": "$1,050",
-      },
-      {
-        "title": "MONTHLY PAYMENT",
-        "body": "Payment amount due monthly",
-        "footer": "$60",
-      },
-      {
-        "title": "TERM",
-        "body": "The length of time of the loan",
-        "footer": "12 Months",
-      },
-    ],
-  },
-  {
-    "amount": "$45/mo",
-    "percentage": "7% APR",
-    "dateMonth": "18 months",
-    "id": "2",
-    "data": [
-      {
-        "title": "APR 2",
-        "body": "The cost of credit as a yearly rate.",
-        "footer": "5.0%",
-      },
-      {
-        "title": "FINANCE CHARGE",
-        "body": "The dollar amount the credit will cost you.",
-        "footer": "$50",
-      },
-      {
-        "title": "AMOUNT FINANCED",
-        "body": "The amountForm of credit provided to you",
-        "footer": "$1,000",
-      },
-      {
-        "title": "PAYMENTS TOTAL",
-        "body": "The total amount paid after making all scheduled payments",
-        "footer": "$1,050",
-      },
-      {
-        "title": "MONTHLY PAYMENT",
-        "body": "Payment amount due monthly",
-        "footer": "$60",
-      },
-      {
-        "title": "TERM",
-        "body": "The length of time of the loan",
-        "footer": "12 Months",
-      },
-    ],
-  },
-  {
-    "amount": "$60/mo",
-    "percentage": "5% APR",
-    "dateMonth": "12 months",
-    "id": "3",
-    "data": [
-      {
-        "title": "APR 3",
-        "body": "The cost of credit as a yearly rate.",
-        "footer": "5.0%",
-      },
-      {
-        "title": "FINANCE CHARGE",
-        "body": "The dollar amount the credit will cost you.",
-        "footer": "$50",
-      },
-      {
-        "title": "AMOUNT FINANCED",
-        "body": "The amount of credit provided to you",
-        "footer": "$1,000",
-      },
-      {
-        "title": "PAYMENTS TOTAL",
-        "body": "The total amount paid after making all scheduled payments",
-        "footer": "$1,050",
-      },
-      {
-        "title": "MONTHLY PAYMENT",
-        "body": "Payment amount due monthly",
-        "footer": "$60",
-      },
-      {
-        "title": "TERM",
-        "body": "The length of time of the loan",
-        "footer": "12 Months",
-      },
-    ],
-  },
-]
+{
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+					"GlossSee": "markup"
+                }
+            }
+        }
+    }
+}
