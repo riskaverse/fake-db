@@ -1,5 +1,5 @@
 [
-  0: {
+  {
     amount: '$25/mo',
     percentage: '10% APR',
     dateMonth: '24 months',
@@ -37,7 +37,7 @@
       },
     ],
   },
-  1: {
+  {
     amount: '$45/mo',
     percentage: '7% APR',
     dateMonth: '18 months',
@@ -75,7 +75,7 @@
       },
     ],
   },
-  2: {
+  {
     amount: '$60/mo',
     percentage: '5% APR',
     dateMonth: '12 months',
@@ -113,4 +113,4 @@
       },
     ],
   },
-];
+]
